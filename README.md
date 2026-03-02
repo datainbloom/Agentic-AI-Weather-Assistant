@@ -6,7 +6,7 @@ This project demonstrates how modern AI systems move beyond static chat response
 
 ---
 
-## 🌍 Why This Project Matters
+## 🌍 Why This Project Matters 💡
 
 Modern AI systems are evolving beyond static chat interfaces and simple text generation into autonomous, tool-using agents that reason across contexts, orchestrate multi-step workflows, and execute actions within distributed, cloud-native environments.
 
