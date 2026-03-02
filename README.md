@@ -58,7 +58,7 @@ Both versions share identical agent logic and architecture.
 
 ## 🏗 Architecture
 
-<img width="1054" height="750" alt="image" src="https://github.com/user-attachments/assets/f05c347f-85ea-4a61-a6ed-a3196893ac8b" />
+<img width="1002" height="922" alt="image" src="https://github.com/user-attachments/assets/2a2ae74b-5467-4251-89a7-e2be12d53335" />
 
 images/architecture.png
 
