@@ -58,9 +58,7 @@ Both versions share identical agent logic and architecture.
 
 ## 🏗 Architecture
 
-<img width="1002" height="922" alt="image" src="https://github.com/user-attachments/assets/2a2ae74b-5467-4251-89a7-e2be12d53335" />
-
-images/architecture.png
+<img width="1002" height="922" alt="image" src="https://github.com/user-attachments/assets/07bd3717-fbe0-4fcf-8ce0-e26899d1eba9" />
 
 ### Workflow Breakdown
 
