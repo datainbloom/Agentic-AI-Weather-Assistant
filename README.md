@@ -113,13 +113,13 @@ Activate environment (Windows):
 .\.venv\Scripts\activate
 ```
 
-📦 Install Dependencies
+## 📦 Install Dependencies
 
 ```
 pip install boto3>=1.34.0 streamlit>=1.28.0 requests>=2.31.0 Pillow>=10.0.0
 ```
 
-🔐 Configure AWS Credentials (PowerShell Example)
+## 🔐 Configure AWS Credentials (PowerShell Example)
 
 ```
 $env:AWS_ACCESS_KEY_ID="YOUR_KEY"
@@ -136,7 +136,7 @@ aws sts get-caller-identity
 
 ---
 
-💻 Running the Command-Line Agent
+## 💻 Running the Command-Line Agent
 
 ```
 python weather_agent_cli.py
@@ -154,7 +154,7 @@ The CLI version prints each step of the agentic workflow in real time.
 
 ---
 
-🌐 Running the Web Application
+## 🌐 Running the Web Application
 
 ```
 streamlit run weather_agent_web.py
@@ -172,7 +172,7 @@ Web Features
 
 ---
 
-🧠 Agentic AI Patterns Demonstrated
+## 🧠 Agentic AI Patterns Demonstrated
 
 This project highlights reusable production patterns:
 
@@ -185,7 +185,7 @@ This project highlights reusable production patterns:
 
 ---
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 - Amazon Bedrock
 - Claude 4.5 Sonnet
@@ -198,7 +198,7 @@ This project highlights reusable production patterns:
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 agentic-ai-workshop/
@@ -213,7 +213,7 @@ agentic-ai-workshop/
 
 ---
 
-🙏🏽 Acknowledgment
+## 🙏🏽 Acknowledgment ☺️
 
 This project was completed with mentorship and implementation guidance from Maurice J. Colon, who assisted with environment configuration, dependency setup, and AWS IAM/Bedrock integration.
 
@@ -224,7 +224,7 @@ Sr. Partner Solutions Architect, AWS
 
 ---
 
-🚀 Key Takeaway
+## 🗝️ Key Takeaway 🚀
 
 This project demonstrates how to design and deploy an AI system that:
 
