@@ -215,7 +215,7 @@ agentic-ai-workshop/
 
 ## 🙏🏽 Acknowledgment ☺️
 
-This project was completed with mentorship and implementation guidance from Maurice J. Colon, who assisted with environment configuration, dependency setup, and AWS IAM/Bedrock integration.
+This project was completed with mentorship and implementation guidance from **Maurice J. Colon**, who assisted with environment configuration, dependency setup, and AWS IAM/Bedrock integration.
 
 Original workshop developed by:
 
