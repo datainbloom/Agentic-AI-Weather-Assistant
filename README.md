@@ -1,4 +1,4 @@
-# 🚀 Agentic AI Weather Assistant using Amazon Bedrock
+# 🌞🌦️🌩️ Agentic AI Weather Assistant using Amazon Bedrock 🌡️🌤️🌪️
 
 An end-to-end **agentic AI system** built with **Amazon Bedrock** and **Claude 4.5 Sonnet** that interprets flexible user input, dynamically generates API calls, executes real-world HTTP requests, and transforms structured weather data into actionable insights.
 
@@ -213,7 +213,7 @@ agentic-ai-workshop/
 
 ---
 
-🙏 Acknowledgment
+🙏🏽 Acknowledgment
 
 This project was completed with mentorship and implementation guidance from Maurice J. Colon, who assisted with environment configuration, dependency setup, and AWS IAM/Bedrock integration.
 
